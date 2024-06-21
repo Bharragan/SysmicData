@@ -1,0 +1,9 @@
+  Date: 1976/ 1/ 1   Centroid Time:  1:29:53.4 GMT
+  Lat= -29.25  Lon=-176.96
+  Depth= 47.8   Half duration= 9.4
+  Centroid time minus hypocenter time: 13.8
+  Moment Tensor: Expo=26  7.680 0.090 -7.770 1.390 4.520 -3.260 
+  Mw = 7.3    mb = 6.2    Ms = 0.0   Scalar Moment = 9.56e+26
+  Fault plane:  strike=202    dip=30   slip=93
+  Fault plane:  strike=18    dip=60   slip=88
+--------------------------------------------------
